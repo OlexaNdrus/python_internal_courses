@@ -1,0 +1,10 @@
+Qusetion: 1. Your best genre of movies? - Answer took: 1.8 seconds
+Qusetion: 2. Your best film director? - Answer took: 1.03 seconds
+Qusetion: 3. Your favorite actor? - Answer took: 0.71 seconds
+Qusetion: 4. Your favorite actress? - Answer took: 0.79 seconds
+Qusetion: 5. Top 3 films of all time? - Answer took: 0.71 seconds
+Qusetion: 6. Favorite TV series of all time? - Answer took: 0.72 seconds
+Qusetion: 7. Best original soundtrack? - Answer took: 0.74 seconds
+Qusetion: 8. Name the most important thing in every film? - Answer took: 1.54 seconds
+Qusetion: 9. The most boring and awful film you ever watch? - Answer took: 1.87 seconds
+For passing entire quiz you spent 9.93 seconds!
